@@ -3,7 +3,9 @@ This repository contains VHDL Codes for the practical session of VLSI Technology
 
 Legends:
 B = Behavioral Model
+
 S = Structural Model
+
 D = Dataflow Model
 
 This repository contains the following
