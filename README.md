@@ -5,7 +5,7 @@ Legends:
 
 B = Behavioral Model;
 S = Structural Model;
-D = Dataflow Model;
+D = Dataflow Model
 
 This repository contains the following
 1) Half Adder (B/S/D) with Testbench
