@@ -2,6 +2,7 @@
 This repository contains VHDL Codes for the practical session of VLSI Technology and Design subject.
 
 Legends:
+
 B = Behavioral Model
 
 S = Structural Model
