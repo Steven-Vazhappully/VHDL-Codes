@@ -1,5 +1,6 @@
 # VHDL-Codes
 This repository contains VHDL Codes for the practical session of VLSI Technology and Design subject.
+
 ---
 Legends:
 
@@ -7,6 +8,7 @@ Legends:
 - S = Structural Model;
 - D = Dataflow Model
 ---
+
 This repository contains the following
 1) Half Adder (B/S/D) with Testbench
 2) Full Adder (B/S/D) with Testbench
